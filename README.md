@@ -1,7 +1,4 @@
 # TP2_Microservices
-
-# API RESTful avec Express.js et SQLite3
-
 ## Description
 Cette API RESTful permet de gérer un registre de personnes. Elle prend en charge les opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) en stockant les données dans une base SQLite3.  
 
